@@ -46,7 +46,7 @@ body {
 
 .navbar ul li {
     display: inline; /* menampilkan item menu secara horizontal */
-    margin-right: 50px;  /* jarak antara item menu */
+    margin-right: 55px;  /* jarak antara item menu */
     background-color: rgba(0, 31, 63, 1); /* Warna biru solid tanpa transparansi */
     transition: background-color 0.3s ease-in-out; /* Transisi lebih halus */
 }
