@@ -149,7 +149,7 @@ body {
 .class-card-3.clicked,
 .class-card-4.clicked,
 .class-card-5.clicked {
-    transform: scale(2.1);
+    transform: scale(1.20);
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4); 
 }
 
